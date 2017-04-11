@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://yourdomain/Shooter" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="0j8MP2T5I4.Shooter" package="0j8MP2T5I4" required_version="2.4"/>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="icon.png"/>
+    <name>Shooter</name>
+    <tizen:profile name="mobile"/>
+</widget>
